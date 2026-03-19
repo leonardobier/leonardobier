@@ -5,16 +5,15 @@
 🌍 Rio de Janeiro, Brasil  
 
 ## Tecnologias
-
-![C#](i_turn0image61) 
-![MySQL](i_turn0image1) 
-![PHP](i_turn0image31) 
-![HTML5](i_turn0image91) 
-![CSS3](i_turn0image117) 
-![JavaScript](i_turn0image171) 
-![Python](i_turn0image144) 
-![Visual Basic](i_turn0image199) 
-![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![Visual Basic](https://upload.wikimedia.org/wikipedia/commons/4/4f/Visual_Basic_6.0_logo.png)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
 
 ## Projetos em Destaque
 🗒️ **Sistema de Gestão Escolar – Colégio João Paulo I (C# + MySQL)**  
@@ -35,5 +34,4 @@
 ---
 
 ## 🎮 Pac-Man
-![Pac-Man](i_turn0image171)  
-*(Use esse ícone divertido nos seus repositórios ou README para dar personalidade ao perfil!)*
+![Pac-Man](https://upload.wikimedia.org/wikipedia/en/5/59/Pac-man.png)
