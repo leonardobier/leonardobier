@@ -49,7 +49,7 @@ I am currently pursuing a degree in Systems Analysis and Development and seeking
 - 🎟️ Seat reservation and discount calculations  
 - 📑 CRUD operations and financial reports (PDF/Excel)  
 
-### 🗒️ School Management System – Colégio João Paulo I *(React.js + PHP + HTML + CSS + JS + MySQL)*  
+### 🗒️ School Management System – Colégio João Paulo I *(PHP + HTML + CSS + JS + MySQL)*  
 - 🔑 Multi-profile authentication  
 - 📚 Student registration, queries, and reports  
 - 🎟️ Event seat reservation module  
