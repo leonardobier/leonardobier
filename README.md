@@ -99,6 +99,14 @@ Meu foco está em construir soluções que unam **tecnologia, organização de p
 
 # 🚀 Projetos em Destaque
 
+## 💬 NextFlowChat — SaaS de Atendimento e Automação via WhatsApp
+
+**SaaS · Multiempresa · Automação · Atendimento**
+
+Plataforma SaaS multiempresa desenvolvida para gerenciamento e automação de atendimentos via WhatsApp, permitindo que diferentes empresas utilizem a plataforma com ambientes, usuários e configurações independentes. O sistema possui controle de acesso por diferentes níveis, conexão via QR Code, captura e edição de contatos, chatbot e fluxos de atendimento personalizáveis, com possibilidade de encaminhamento para atendentes. O projeto foi desenvolvido com foco em automação, organização dos atendimentos, escalabilidade e experiência do usuário.
+
+---
+
 ## 🎫 NextHelp — Sistema de Gerenciamento de Chamados
 
 **Tecnologia:** Lovable
@@ -246,6 +254,7 @@ Meu portfólio pessoal reúne minha trajetória profissional, projetos, tecnolog
 * Sistemas acadêmicos
 * Sistemas financeiros
 * Sistemas de chamados
+* Sistemas de automação e atendimento
 * Administração de plataformas educacionais
 
 ---
