@@ -16,6 +16,8 @@
 
 Sou **Desenvolvedor Full-Stack e Técnico em Informática**, com experiência em desenvolvimento web, desenvolvimento de sistemas, suporte técnico, análise de dados e administração de sistemas.
 
+⚡ **Destaque de Desenvolvimento:** Em meu fluxo de trabalho diário, utilizo a **Antigravity IDE** como ambiente principal para criar, escalar e entregar código de alta qualidade com máxima eficiência e produtividade.
+
 Atualmente trabalho na área de **Tecnologia da Informação**, atuando com suporte a usuários, sistemas de gestão escolar, análise de dados, manutenção de infraestrutura e melhoria de plataformas institucionais.
 
 Tenho experiência prática no desenvolvimento e evolução de **sistemas acadêmicos, financeiros, escolares e de atendimento**, incluindo a transformação de aplicações desktop desenvolvidas em **C# + MySQL** em soluções web utilizando **PHP, HTML, CSS e JavaScript**, além de criar produtos SaaS modernos.
@@ -50,13 +52,14 @@ Meu foco está em construir soluções que unam **tecnologia, organização de p
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
 </p>
 
 ### Ferramentas
 
-**VS Code · Visual Studio · Microsoft 365 · Excel · Photoshop · Canva · CapCut · Lovable**
+**Antigravity IDE · VS Code · Visual Studio · Microsoft 365 · Excel · Photoshop · Canva · CapCut · Lovable**
 
 ---
 
@@ -69,10 +72,11 @@ Meu foco está em construir soluções que unam **tecnologia, organização de p
 
 * Suporte técnico remoto e presencial aos usuários.
 * Administração e suporte de sistemas de gestão escolar.
+* Desenvolvimento do sistema **Acompanha Matrículas** (C#) operando com consultas diretas ao banco MySQL.
+* Desenvolvimento do sistema web **CAFA Emp** (PHP, MySQL, JS) para gestão de eventos como a Feira do Empreendedorismo.
 * Análise de dados e apoio à melhoria de processos.
 * Manutenção preventiva e suporte de rede.
-* Gestão de recursos tecnológicos.
-* Suporte ao sistema de reconhecimento facial.
+* Gestão de recursos tecnológicos e suporte ao sistema de reconhecimento facial.
 * Apoio à melhoria da usabilidade das plataformas institucionais.
 
 ### 🌐 Manutenção do Site Institucional
@@ -101,7 +105,7 @@ Meu foco está em construir soluções que unam **tecnologia, organização de p
 
 ## 🤖 NextFlowChat — Sistema de Automação e Chatbot
 
-**Tecnologias:** TypeScript
+**Tecnologias:** TypeScript, PostgreSQL
 
 Sistema SaaS de atendimento e automação de mensagens para empresas. Desenvolvido com foco em escalabilidade e experiência do usuário, permitindo criação de fluxos de conversa customizados.
 
@@ -110,13 +114,13 @@ Sistema SaaS de atendimento e automação de mensagens para empresas. Desenvolvi
 * 🔄 Criação de fluxos automáticos de mensagens totalmente personalizáveis.
 * 💬 Atendimento automatizado por bot com transição inteligente para humanos.
 * 🎨 Interface adaptável à identidade visual da empresa.
-* 🏢 Estrutura pronta para escalar múltiplos clientes (SaaS).
+* 🏢 Estrutura pronta para escalar múltiplos clientes (SaaS) com banco de dados **PostgreSQL**.
 
 ---
 
 ## 💰 NextFinances — Controle Financeiro Inteligente
 
-**Tecnologias:** TypeScript
+**Tecnologias:** TypeScript, PostgreSQL
 
 Plataforma inovadora de gestão financeira por assinatura (mensal/anual), projetada para dar ao usuário controle total sobre suas finanças com o apoio de Inteligência Artificial.
 
@@ -124,7 +128,7 @@ Plataforma inovadora de gestão financeira por assinatura (mensal/anual), projet
 * 🧠 Inteligência Artificial integrada para auxiliar em projeções e organização financeira.
 * 📊 Controle total e intuitivo de receitas, despesas e metas.
 * 💳 Integração completa com a API do Mercado Pago para gestão de assinaturas.
-* 🔒 Ambiente seguro, moderno e focado em facilitar o planejamento do usuário.
+* 🔒 Ambiente seguro, moderno e escalável utilizando **PostgreSQL**.
 
 ---
 
@@ -147,15 +151,30 @@ Plataforma web desenvolvida para gerenciamento de chamados e suporte interno cor
 ## 🏫 Acompanha Matrículas
 
 **Colégio de Aplicação Ferreira de Almeida (CAFA)**
-**Tecnologias:** C# (Desktop)
+**Tecnologias:** C# (Desktop), MySQL
 
 Sistema desktop desenvolvido internamente para o Colégio CAFA, focado em otimizar e organizar o período de renovações e novas inscrições.
 
 ### Principais funcionalidades
-* 🗄️ Integração direta com o banco de dados do sistema principal de gestão do colégio.
+* 🗄️ Consultas avançadas e integração direta com o banco de dados **MySQL** do sistema principal de gestão do colégio.
 * 🔄 Acompanhamento ágil e organizado de matrículas e rematrículas.
 * 📊 Interface focada em produtividade para a equipe da secretaria.
 * 🔍 Filtros e organização de dados para acompanhamento de metas de rematrícula.
+
+---
+
+## 📈 CAFA Emp — Sistema de Gestão de Eventos e Pontuação
+
+**Colégio de Aplicação Ferreira de Almeida (CAFA)**
+**Tecnologias:** PHP, MySQL, HTML, CSS, JavaScript
+
+Sistema web desenvolvido especificamente para o gerenciamento de pontuação dos alunos em grandes eventos institucionais, como a Feira do Empreendedorismo de 2026.
+
+### Principais funcionalidades
+* 📊 Registro e apuração de pontos das equipes em tempo real.
+* 🌐 Interface web fluida para rápida inserção de dados por avaliadores e professores.
+* 🏆 Geração automática de rankings e resultados das atividades.
+* 🗄️ Arquitetura sólida baseada em banco de dados relacional.
 
 ---
 
@@ -241,10 +260,10 @@ Meu portfólio pessoal que reúne minha trajetória profissional, projetos, tecn
 `HTML5` `CSS3` `Vite` `CRUD` `Autenticação` `Controle de acesso`
 
 ### Banco de Dados
-`MySQL`
+`MySQL` `PostgreSQL`
 
 ### Ferramentas
-`Git` `GitHub` `VS Code` `Visual Studio` `Microsoft 365` `Excel` `Photoshop` `Canva` `CapCut` `Lovable`
+`Antigravity IDE` `Git` `GitHub` `VS Code` `Visual Studio` `Microsoft 365` `Excel` `Photoshop` `Canva` `CapCut` `Lovable`
 
 ### Outras competências
 * Análise de dados e Inteligência Artificial
