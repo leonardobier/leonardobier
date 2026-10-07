@@ -6,9 +6,9 @@
 🎓 Análise e Desenvolvimento de Sistemas — Universidade Veiga de Almeida (UVA)
 💼 Desenvolvedor Full-Stack | Suporte e Tecnologia da Informação
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-leonardobier.vercel.app-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://leonardobier.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Lage%20Bier-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/leonardolagebier/)
-[![GitHub](https://img.shields.io/badge/GitHub-leonardobier-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/leonardobier)
+[![Portfolio](https://img.shields.io/badge/Portfolio-leonardobier.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://leonardobier.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Lage%20Bier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardolagebier/)
+[![GitHub](https://img.shields.io/badge/GitHub-leonardobier-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardobier)
 
 ---
 
@@ -18,7 +18,7 @@ Sou **Desenvolvedor Full-Stack e Técnico em Informática**, com experiência em
 
 Atualmente trabalho na área de **Tecnologia da Informação**, atuando com suporte a usuários, sistemas de gestão escolar, análise de dados, manutenção de infraestrutura e melhoria de plataformas institucionais.
 
-Tenho experiência prática no desenvolvimento e evolução de **sistemas acadêmicos, financeiros, escolares e de atendimento**, incluindo a transformação de aplicações desktop desenvolvidas em **C# + MySQL** em soluções web utilizando **PHP, HTML, CSS e JavaScript**.
+Tenho experiência prática no desenvolvimento e evolução de **sistemas acadêmicos, financeiros, escolares e de atendimento**, incluindo a transformação de aplicações desktop desenvolvidas em **C# + MySQL** em soluções web utilizando **PHP, HTML, CSS e JavaScript**, além de criar produtos SaaS modernos.
 
 Meu foco está em construir soluções que unam **tecnologia, organização de processos e experiência do usuário**.
 
@@ -99,23 +99,63 @@ Meu foco está em construir soluções que unam **tecnologia, organização de p
 
 # 🚀 Projetos em Destaque
 
+## 🤖 NextFlowChat — Sistema de Automação e Chatbot
+
+**Tecnologias:** TypeScript
+
+Sistema SaaS de atendimento e automação de mensagens para empresas. Desenvolvido com foco em escalabilidade e experiência do usuário, permitindo criação de fluxos de conversa customizados.
+
+### Principais funcionalidades
+* 📱 Layout totalmente responsivo, moderno e fluido.
+* 🔄 Criação de fluxos automáticos de mensagens totalmente personalizáveis.
+* 💬 Atendimento automatizado por bot com transição inteligente para humanos.
+* 🎨 Interface adaptável à identidade visual da empresa.
+* 🏢 Estrutura pronta para escalar múltiplos clientes (SaaS).
+
+---
+
+## 💰 NextFinances — Controle Financeiro Inteligente
+
+**Tecnologias:** TypeScript
+
+Plataforma inovadora de gestão financeira por assinatura (mensal/anual), projetada para dar ao usuário controle total sobre suas finanças com o apoio de Inteligência Artificial.
+
+### Principais funcionalidades
+* 🧠 Inteligência Artificial integrada para auxiliar em projeções e organização financeira.
+* 📊 Controle total e intuitivo de receitas, despesas e metas.
+* 💳 Integração completa com a API do Mercado Pago para gestão de assinaturas.
+* 🔒 Ambiente seguro, moderno e focado em facilitar o planejamento do usuário.
+
+---
+
 ## 🎫 NextHelp — Sistema de Gerenciamento de Chamados
 
-**Tecnologia:** Lovable
+**Tecnologias:** Lovable
 
 🔗 [Acessar o NextHelp](https://nexthelp.lovable.app)
 
-Plataforma web desenvolvida para gerenciamento de chamados e suporte interno.
+Plataforma web desenvolvida para gerenciamento de chamados e suporte interno corporativo.
 
 ### Principais funcionalidades
+* 🔐 Controle de acesso por perfil (Administrador, Solicitante e Atendente).
+* 🎫 Abertura, acompanhamento e identificação única de chamados.
+* 🔄 Gerenciamento completo do ciclo de atendimento e status.
+* 🗂️ Organização otimizada das solicitações de suporte.
 
-* 🔐 Controle de acesso por perfil.
-* 👨‍💼 Perfis de administrador, solicitante e atendente.
-* 🎫 Abertura e acompanhamento de chamados.
-* 🔄 Gerenciamento completo do ciclo de atendimento.
-* 🔢 Identificação única dos chamados.
-* 📊 Controle de status.
-* 🗂️ Organização dos atendimentos.
+---
+
+## 🏫 Acompanha Matrículas
+
+**Colégio de Aplicação Ferreira de Almeida (CAFA)**
+**Tecnologias:** C# (Desktop)
+
+Sistema desktop desenvolvido internamente para o Colégio CAFA, focado em otimizar e organizar o período de renovações e novas inscrições.
+
+### Principais funcionalidades
+* 🗄️ Integração direta com o banco de dados do sistema principal de gestão do colégio.
+* 🔄 Acompanhamento ágil e organizado de matrículas e rematrículas.
+* 📊 Interface focada em produtividade para a equipe da secretaria.
+* 🔍 Filtros e organização de dados para acompanhamento de metas de rematrícula.
 
 ---
 
@@ -127,24 +167,11 @@ Plataforma web desenvolvida para gerenciamento de chamados e suporte interno.
 Sistema desenvolvido para centralizar a gestão acadêmica, financeira e administrativa de uma instituição de ensino.
 
 ### Principais funcionalidades
-
-* 👨‍🎓 Gestão de alunos e responsáveis.
-* 👨‍🏫 Gestão de professores.
-* 🏫 Gestão de turmas e modalidades.
-* 💰 Controle financeiro.
-* 🧾 Matrículas e mensalidades.
-* 💳 Controle de cobranças.
-* 📄 Relatórios e exportação para PDF.
-* 🎭 Gestão de eventos e espetáculos.
-* 🎟️ Gestão de ingressos e assentos.
-* 💵 Controle de vendas.
-* 👨‍👩‍👧 Portal do Responsável.
-* 📚 Consulta de informações acadêmicas e financeiras.
-* 💳 Pagamento de mensalidades pelo Portal do Responsável.
-
-### Evolução do projeto
-
-O sistema passou por uma evolução de uma aplicação **desktop desenvolvida em C# + MySQL** para uma solução **web utilizando PHP, HTML, CSS e JavaScript**.
+* 👨‍🎓 Gestão de alunos, responsáveis, professores, turmas e modalidades.
+* 💰 Controle financeiro (Matrículas, mensalidades e cobranças).
+* 🎭 Gestão de eventos, espetáculos, ingressos e assentos.
+* 👨‍👩‍👧 Portal do Responsável (Consultas e pagamentos integrados).
+* 🔄 Evolução técnica: Migrado de aplicação **Desktop (C# + MySQL)** para solução **Web (PHP + JS + HTML/CSS)**.
 
 ---
 
@@ -156,37 +183,23 @@ O sistema passou por uma evolução de uma aplicação **desktop desenvolvida em
 Sistema desenvolvido para gerenciamento de competições acadêmicas e esportivas.
 
 ### Principais funcionalidades
-
-* 🏅 Controle de equipes.
-* 📊 Sistema de pontuação.
-* 🏆 Rankings.
-* 📝 Registro de resultados.
-* 👨‍🎓 Cadastro de alunos por modalidade.
-* 🔐 Múltiplos níveis de acesso.
-* 🎟️ Módulo de reserva de lugares.
-* 📦 Controle de almoxarifado.
-* 📄 Relatórios.
-
-### Evolução do projeto
-
-Projeto originalmente desenvolvido como aplicação **desktop em C# + MySQL**, posteriormente evoluído para uma solução web.
+* 🏅 Controle de equipes, sistema de pontuação, resultados e rankings.
+* 👨‍🎓 Cadastro de alunos por modalidade esportiva/acadêmica.
+* 🔐 Múltiplos níveis de acesso (Admin, Secretaria, Professor, Aluno).
+* 📦 Controle de almoxarifado e módulo de reserva de lugares.
 
 ---
 
 ## 🌐 Portfólio Pessoal
 
-**React.js · JavaScript · HTML · CSS**
+**Tecnologias:** React.js, JavaScript, HTML, CSS
 
-Meu portfólio pessoal reúne minha trajetória profissional, projetos, tecnologias e experiências na área de desenvolvimento.
+Meu portfólio pessoal que reúne minha trajetória profissional, projetos, tecnologias e experiências na área de desenvolvimento.
 
 ### Recursos
-
-* 🎨 Interface moderna.
-* 📱 Design responsivo.
-* 🚀 Desenvolvimento com React.js.
-* 📂 Apresentação de projetos.
-* 🛠️ Tecnologias utilizadas.
-* 📬 Formulário de contato funcional.
+* 🎨 Interface moderna e Design responsivo.
+* 🚀 Desenvolvimento completo com ecossistema React.
+* 📬 Formulário de contato totalmente funcional.
 
 🔗 **[Visitar meu portfólio](https://leonardobier.vercel.app)**
 
@@ -196,7 +209,7 @@ Meu portfólio pessoal reúne minha trajetória profissional, projetos, tecnolog
 
 ### Universidade Veiga de Almeida — UVA
 
-**Análise e Desenvolvimento de Sistemas**
+**Análise e Desenvolvimento de Sistemas** (2º Semestre)
 `Fev/2026 — Atual`
 
 ### Colégio João Paulo I
@@ -222,32 +235,24 @@ Meu portfólio pessoal reúne minha trajetória profissional, projetos, tecnolog
 # 💡 Competências
 
 ### Desenvolvimento
-
 `React.js` `TypeScript` `JavaScript` `PHP` `C#` `.NET` `Python`
 
 ### Web
-
 `HTML5` `CSS3` `Vite` `CRUD` `Autenticação` `Controle de acesso`
 
 ### Banco de Dados
-
 `MySQL`
 
 ### Ferramentas
-
 `Git` `GitHub` `VS Code` `Visual Studio` `Microsoft 365` `Excel` `Photoshop` `Canva` `CapCut` `Lovable`
 
 ### Outras competências
-
-* Análise de dados
-* Suporte técnico
-* Manutenção de computadores
-* Sistemas de gestão escolar
-* Sistemas acadêmicos
-* Sistemas financeiros
-* Sistemas de chamados
-* Sistemas de automação e atendimento
-* Administração de plataformas educacionais
+* Análise de dados e Inteligência Artificial
+* Suporte técnico e manutenção
+* Desenvolvimento SaaS
+* Sistemas de gestão escolar, acadêmicos e financeiros
+* Sistemas de chamados, automação e atendimento
+* Modernização de sistemas (Desktop → Web)
 
 ---
 
@@ -260,14 +265,11 @@ Meu portfólio pessoal reúne minha trajetória profissional, projetos, tecnolog
 
 # 🤝 Soft Skills
 
-* Proatividade
-* Iniciativa
-* Comunicação
+* Proatividade e Iniciativa
+* Comunicação e Relacionamento Interpessoal
 * Trabalho em equipe
-* Organização
-* Foco em resultados
+* Organização e Foco em resultados
 * Facilidade de aprendizado
-* Bom relacionamento interpessoal
 
 ---
 
