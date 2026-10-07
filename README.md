@@ -107,6 +107,8 @@ Meu foco está em construir soluções que unam **tecnologia, organização de p
 
 **Tecnologias:** TypeScript, PostgreSQL
 
+🔗 [Acessar o NextFlow Chat](nextflow.leenicorporation.com.br)
+
 Sistema SaaS de atendimento e automação de mensagens para empresas. Desenvolvido com foco em escalabilidade e experiência do usuário, permitindo criação de fluxos de conversa customizados.
 
 ### Principais funcionalidades
