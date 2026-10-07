@@ -122,6 +122,8 @@ Sistema SaaS de atendimento e automação de mensagens para empresas. Desenvolvi
 
 **Tecnologias:** TypeScript, PostgreSQL
 
+🔗 [Acessar o NextFinances](https://nextfinances.leenicorporation.com.br)
+
 Plataforma inovadora de gestão financeira por assinatura (mensal/anual), projetada para dar ao usuário controle total sobre suas finanças com o apoio de Inteligência Artificial.
 
 ### Principais funcionalidades
