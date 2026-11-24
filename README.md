@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=200&section=header&text=Leonardo%20Lage%20Bier&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20%E2%80%A2%20Web%20%26%20Desktop&descAlignY=58&descSize=18" />
-</p>
+<h1 align="center">👨‍💻 Leonardo Lage Bier</h1>
+
+<h3 align="center">Full-Stack Developer • SaaS • Web & Desktop</h3>
 
 <p align="center">
   <a href="https://leonardobier.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full-Stack+%7C+T%C3%A9cnico+em+Inform%C3%A1tica;SaaS+Multi-Tenant+com+React%2C+Next.js+e+PostgreSQL;Automa%C3%A7%C3%A3o+de+WhatsApp+%2B+Mercado+Pago+%2B+IA;Moderniza%C3%A7%C3%A3o+de+sistemas+Desktop+%E2%86%92+Web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full-Stack+e+Tecnico+em+Informatica;SaaS+Multi-Tenant+com+React+Next.js+e+PostgreSQL;Automacao+de+WhatsApp+Mercado+Pago+e+IA;Modernizacao+de+sistemas+Desktop+para+Web" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-22c55e?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=leonardobier&style=flat-square&color=1d4ed8&label=Visitas" />
 </p>
-
 ---
 
 ## 🚀 Sobre mim
